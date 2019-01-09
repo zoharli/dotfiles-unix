@@ -1,27 +1,27 @@
-log
-*result*
-models
-*checkpoint*
-
-#vim swp file
-.*swp
-.*swo
-
-# ctags files
-tags
-
-# Editor files
-*.DS_Store
-
-# Byte-compiled / optimized / DLL files
-__pycache__/
-
-#  extensions
-*.so
-*.bak
-
-
-# Distribution / packaging
+#log
+#*result*
+#models
+#*checkpoint*
+#
+##vim swp file
+#.*swp
+#.*swo
+#
+## ctags files
+#tags
+#
+## Editor files
+#*.DS_Store
+#
+## Byte-compiled / optimized / DLL files
+#__pycache__/
+#
+##  extensions
+#*.so
+#*.bak
+#
+#
+## Distribution / packaging
 #.Python
 #env/
 #build/
@@ -37,17 +37,17 @@ __pycache__/
 #*.egg-info/
 #.installed.cfg
 #*.egg
-
-# PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+#
+## PyInstaller
+##  Usually these files are written by a python script from a template
+##  before PyInstaller builds the exe, so as to inject date/other infos into it.
 #*.manifest
 #*.spec
-
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
-
+#
+## Installer logs
+#pip-log.txt
+#pip-delete-this-directory.txt
+#
 ## Unit test / coverage reports
 #htmlcov/
 #.tox/
