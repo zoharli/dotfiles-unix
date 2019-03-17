@@ -28,7 +28,7 @@ hi FoldColmun ctermfg=246 ctermbg=235 cterm=NONE guifg=#909194 guibg=#44475a gui
 hi Normal guifg=#f8f8f2 guibg=#282a36 gui=NONE
 hi Boolean ctermfg=141 ctermbg=NONE cterm=NONE guifg=#bd93f9 guibg=NONE gui=NONE
 hi Character ctermfg=cyan ctermbg=NONE cterm=NONE guifg=#bd93f9 guibg=NONE gui=NONE
-hi Comment ctermfg=black ctermbg=NONE cterm=NONE guifg=#6272a4 guibg=NONE gui=NONE
+hi Comment ctermfg=white ctermbg=NONE cterm=NONE guifg=#6272a4 guibg=NONE gui=NONE
 hi Conditional ctermfg=magenta ctermbg=NONE cterm=NONE guifg=#ff79c6 guibg=NONE gui=NONE
 hi Constant ctermfg=yellow ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi Repeat ctermfg=red ctermbg=NONE cterm=NONE
