@@ -18,7 +18,7 @@ then
 	mkdir $HOME/.pip
 	echo "[global]\nindex-url = https://mirrors.ustc.edu.cn/pypi/web/simple\nformat = columns\n">$HOME/.pip/pip.conf
 	sudo apt-get install zsh
-	sudo apt-get install silverseacher-ag
+	sudo apt-get install silversearcher-ag
 	sudo apt-get install ctags
 	sudo apt-get install samba
 	chsh -s /usr/bin/zsh 
