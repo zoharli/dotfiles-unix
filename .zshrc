@@ -43,6 +43,8 @@ elif [[ $(file /bin/bash) == *Linux* ]] then
 	alias pt='$HOME/anaconda3/bin/ipython -i ~/.python_startup.py'
 	alias pip='$HOME/anaconda3/bin/pip'
 	alias del="sh $HOME/.del.sh"
+	alias cuda8="sudo rm /usr/local/cuda ; sudo ln -s /usr/local/cuda-8.0/ /usr/local/cuda ; l /usr/local/cuda"
+	alias cuda9="sudo rm /usr/local/cuda ; sudo ln -s /usr/local/cuda-9.0/ /usr/local/cuda ; l /usr/local/cuda"
 	alias ,v="vim ~/.vimrc"
 else 
 	echo "not linux or mac os!"
